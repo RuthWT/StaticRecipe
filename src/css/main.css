@@ -1,0 +1,18 @@
+#navigation {
+    font-family: 'Neuton', serif;
+}
+h1 {
+    text-align: center;
+    color:darkcyan;
+    text-outline: 100px blueviolet;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+a {
+    text-align: center;
+    color:darkcyan;
+    text-outline: 100px blueviolet;
+
+}
